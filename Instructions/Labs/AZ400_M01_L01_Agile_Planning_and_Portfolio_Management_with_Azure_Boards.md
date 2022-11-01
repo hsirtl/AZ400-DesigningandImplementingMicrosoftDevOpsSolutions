@@ -26,8 +26,8 @@ After you complete this lab, you will be able to:
 - Manage work items.
 - Manage sprints and capacity.
 - Customize Kanban boards.
-- Define dashboards.
 - Customize team process.
+- Define dashboards.
 
 ## Estimated timing: 60 minutes
 
